@@ -1,0 +1,16 @@
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+.streamlit/secrets.toml
+backups/
+*backup*.json
+*.log
+.DS_Store
+Thumbs.db
